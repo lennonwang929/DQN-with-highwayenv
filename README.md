@@ -1,6 +1,4 @@
-Here's a more concise, GitHub-friendly English version of your README.md:
 
-```markdown
 # DQN Highway Driving
 
 <img src="https://img.shields.io/badge/Python-3.10-blue"> <img src="https://img.shields.io/badge/PyTorch-2.x-orange"> <img src="https://img.shields.io/badge/Gymnasium-≥0.29-green"> <img src="https://img.shields.io/badge/Highway--Env-1.8+-yellow">
