@@ -112,13 +112,3 @@ Located in `models/`
 Enjoy safer (and hopefully faster) highway driving! 🚗💨
 ```
 
-This version is:
-
-- Shorter and more scannable
-- Uses GitHub-flavored markdown conventions
-- Includes badges (you can keep/remove them)
-- Clear quick-start commands
-- Keeps the essential information
-- Looks clean on GitHub
-
-Feel free to replace the image paths or add more screenshots/GIFs of the actual driving behavior — those usually attract the most attention on reinforcement learning repos. Good luck with the project!
